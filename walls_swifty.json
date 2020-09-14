@@ -1,0 +1,44 @@
+[
+	{
+		"name": "iOS 14 Light Red",
+		"author": "Apple",
+		"url": "https://www.idownloadblog.com/wp-content/uploads/2020/06/1511.WWDC_2020_Warm_Light-375w-667h@2xiphone.jpg",
+		"collections": "iOS 14, Light",
+		"downloadable": true
+	},
+	{
+		"name": "iOS 14 Light Blue",
+		"author": "Apple",
+		"url": "https://www.idownloadblog.com/wp-content/uploads/2020/06/1521.WWDC_2020_Cool_Light-375w-667h@2xiphone.jpg",
+		"collections": "iOS 14, Light",
+		"downloadable": true
+	},
+	{
+		"name": "iOS 14 Light Grey",
+		"author": "Apple",
+		"url": "https://www.idownloadblog.com/wp-content/uploads/2020/06/1531.WWDC_2020_Neutral_Light-375w-667h@2xiphone.jpg",
+		"collections": "iOS 14, Light",
+		"downloadable": true
+	},
+	{
+		"name": "iOS 14 Dark Red",
+		"author": "Apple",
+		"url": "https://www.idownloadblog.com/wp-content/uploads/2020/06/1512.WWDC_2020_Warm_Dark-375w-667h@2xiphone.jpg",
+		"collections": "iOS 14, Dark",
+		"downloadable": true
+	},
+	{
+		"name": "iOS 14 Dark Blue",
+		"author": "Apple",
+		"url": "https://www.idownloadblog.com/wp-content/uploads/2020/06/1522.WWDC_2020_Cool_Dark-375w-667h@2xiphone.jpg",
+		"collections": "iOS 14, Dark",
+		"downloadable": true
+	},
+	{
+		"name": "iOS 14 Dark Grey",
+		"author": "Apple",
+		"url": "https://www.idownloadblog.com/wp-content/uploads/2020/06/1532.WWDC_2020_Neutral_Dark-375w-667h@2xiphone.jpg",
+		"collections": "iOS 14, Dark",
+		"downloadable": true
+	}
+]
