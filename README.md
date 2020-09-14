@@ -1,2 +1,2 @@
-# individual-files
-A small repo with some individual files needed by some of my projects
+# You can move on...
+Just a small repo with some individual files needed by some of my projects
